@@ -25,6 +25,8 @@
     </view>
   </view>
 
+            <image class="addwxapp-img" src="/images/feifei1.jpg" alt=""></image>
+            <image class="addwxapp-img" src="/images/feifei2.jpg" alt=""></image>
 
   <!-- 操作数据库 -->
   <view class="uploader">
